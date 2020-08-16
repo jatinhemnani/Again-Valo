@@ -1,0 +1,18 @@
+.Testing {
+    background: #2e86de;
+    padding: 10px;
+    text-align: center;
+    margin-top: 40px;
+    width: 100%;
+}
+
+.weapon-head {
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+    background: #303952;
+    color: white;
+    padding: 20px;
+    border: 4px double #3dc1d3;
+    text-transform: uppercase;
+}

@@ -1,0 +1,69 @@
+.Main-Table {
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+.Table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.table-head {
+    padding: 15px;
+    text-align: center;
+    background-color: #54a0ff;
+    font-weight: 500;
+    transition: all .2s ease-in-out;
+}
+
+.table-maindata {
+    padding: 15px;
+    text-align: center;
+    font-weight: 700;
+    background: #e15f41;
+}
+
+.table-armor {
+    padding: 15px;
+    text-align: center;
+    background: #26de81;
+}
+
+.table-armor2 {
+    padding: 15px;
+    text-align: center;
+    background: #a55eea;
+}
+
+.table-armor3 {
+    padding: 15px;
+    text-align: center;
+    background: #eb3b5a;
+}
+
+.table-sec {
+    padding: 15px;
+    text-align: center;
+    background: #95afc0;
+    font-weight: 500;
+}
+
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+::-webkit-scrollbar-track {
+    border: 4px solid cyan;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(
+        45deg,
+        #06dee1,
+        #79ff6c
+    );
+    border-radius: 5px;
+}

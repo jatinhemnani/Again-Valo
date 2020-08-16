@@ -1,0 +1,22 @@
+*{margin: 0; padding: 0;}
+
+.container {
+    /* background: #4b6584; */
+    background: url(Valorant.jpg);
+    width: 1168px;
+    height: 200vh;
+    margin-top: 48px;
+    text-align: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    
+}
+
+.container h1{
+    color: white;
+    margin-top: 40px;
+    font-weight: 600;
+    top: auto;
+    text-align: center;
+    font-size: 50px;
+}
