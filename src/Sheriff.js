@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import 'tachyons';
 import './Table.css';
 import TableList from './TableList'

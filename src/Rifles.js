@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import BulldogTable from './Bulldog'
 import GuardianTable from './Guardian'
 import PhantomTable from './Phantom'

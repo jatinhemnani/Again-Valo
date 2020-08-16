@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import ClassicTable from './Classic';
 import ShortyTable from './Shorty';
 import FrenzyTable from './Frenzy';
