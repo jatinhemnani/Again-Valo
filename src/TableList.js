@@ -1,5 +1,5 @@
 import React from 'react';
-import Table from './Classic';
+
 import 'tachyons';
 import './Table.css';
 

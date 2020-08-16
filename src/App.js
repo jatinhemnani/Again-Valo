@@ -5,8 +5,7 @@ import Pistols from './Pistols';
 import SMGs from './SMGs';
 import Rifles from './Rifles';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
-import Valorant from './Valorant.jpg' 
-import {Link} from 'react-router-dom'
+
 
 function App() {
   return (
